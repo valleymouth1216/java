@@ -20,11 +20,13 @@ public class Ready03 {
 		 System.out.println("}");
 		 System.out.println("↑ クラスブロックの終わり");
 		 System.out.println("--------------");
-		 System.out.println("Hello Java!");
-		 System.out.println("Hello WEBCAMP");
-		 System.out.println("Hello Java!");
-		 System.out.println("Hello WEBCAMP");
-		 System.out.println("Hello Java!");
+		 System.out.println("mainメゾット 2種類");
+		 System.out.println("public static void main(String[] args) {");
+		 System.out.println("処理（文）!");
+		 System.out.println("}");
+		 System.out.println("public static void main(String... args) {");
+		 System.out.println("処理（文）!");
+		 System.out.println("}");
 		 
 	 }
 	 
