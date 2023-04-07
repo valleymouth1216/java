@@ -122,15 +122,15 @@ public class Ready06 {
 	 String da = "applePie";
 	 String dd = "apple";
 	 String de = dd + "Pie";
-	 dc = da == de;  // c = false
+	 //dc = da == de;  // c = false
 	 
 	 String ea = "applePie";
 	 String ef = new String("applePie");
-	 ec = ea == ef;  // c = false
+	 //ec = ea == ef;  // c = false
 	 
 	// 変数の中身はすぐ上の例と同じ
-	 c = a.equals(b);  // c = true
-	 c = a.equals(e);  // c = true
-	 c = a.equals(f);  // c = true
+	 //c = a.equals(b);  // c = true
+	 //c = a.equals(e);  // c = true
+	 //c = a.equals(f);  // c = true
  }
 }
