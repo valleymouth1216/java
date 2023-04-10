@@ -85,8 +85,21 @@ public class Ready07 {
          // 前の条件式の評価が全てflaseの場合、ブロックの処理を実行
          } else {
              System.out.println(number3 + " は15未満でないです");
-
      }
+         
+         
+         
+         int val1 = 2;
+         switch (val1) {
+         case 3:
+             System.out.println("よくできました！");
+             break;
+         case 2:
+             System.out.println("ふつうでした！");
+             break;
+         default:
+             System.out.println("がんばろう！");
+         }        
  }
 	
 }
