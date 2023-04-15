@@ -153,15 +153,6 @@ public class Ready07 {
         	System.out.println("がんばろう");
         }
         
-        
-        
-        
-        
-        
-        
-        
-       
-       
  }
 	
 }
