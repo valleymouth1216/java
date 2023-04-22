@@ -10,5 +10,9 @@ public class ClassMethod05 {
 
         //nameとageそれぞれの値を返すpublicなメソッドを通して参照し出力することはできる
         System.out.println("名前は" + yamada.getName() + "で、年齢は" + yamada.getAge() + "です。");
+        
+        
+        
+        
     }
 }
