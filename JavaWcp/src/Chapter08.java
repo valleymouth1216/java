@@ -20,7 +20,9 @@ public class Chapter08 {
      	if (number_for3%2==0) {
     		continue;
     	}
+     	
     	System.out.println("number_for3 ="+ number_for3);
+    	
      }
  }
 }
