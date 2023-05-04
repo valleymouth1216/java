@@ -2,6 +2,8 @@
 public class Ready04 {
     public static void main(String[] args) {
     	
+    	
+    	
         System.out.println("変数について");
         int num1;  // int型の変数num1を宣言
         String str1;  // String型の変数str1を宣言
