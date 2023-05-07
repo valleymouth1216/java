@@ -25,4 +25,6 @@ public class Human04 {
         // インスタンス変数のnameを表示
         System.out.println("名前は" + name);
     }
+    
+    
 }
