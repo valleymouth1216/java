@@ -56,6 +56,8 @@ public class Ready08 {
 	        
 	        
 	        
+	        
+	        
 	        //for文
 	        System.out.println("for文");
 	        for (int number_for =1;number_for <=5;number_for++) {
