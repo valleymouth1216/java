@@ -5,6 +5,8 @@ public class Ready09 {
 	
 	
 	
+	
+	
 	 
 	 //修飾子 class クラス名 {
 	 //   修飾子 コンストラクタ(引数) {
