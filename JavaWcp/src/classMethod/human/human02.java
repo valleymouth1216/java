@@ -4,6 +4,8 @@ public class human02 {
   public String name;
   public int age;
   
+  
+  
   public human02() {
 	  name ="山田";
 	  age = 20;
