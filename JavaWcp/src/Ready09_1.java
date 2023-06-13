@@ -11,4 +11,7 @@ public class Ready09_1 {
    // package パッケージ名;
    // import パッケージ名.クラス名;
    // import パッケージ名.*;
+   
+   
+   
 }
