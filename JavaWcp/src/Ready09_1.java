@@ -8,6 +8,8 @@ public class Ready09_1 {
 	   System.out.println("名前は"+ sato.name +"で、年齢は"+ sato.age+"です.");
    }
    
+   
+   
    // package パッケージ名;
    // import パッケージ名.クラス名;
    // import パッケージ名.*;
