@@ -6,6 +6,7 @@ public class ClassMethod03 {
 
         
         
+        
         System.out.println("私の名前は、" + yamada.name + "です。");
         String profile = yamada.getProfile();
         System.out.println(profile + "です。");
