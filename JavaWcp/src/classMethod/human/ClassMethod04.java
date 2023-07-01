@@ -15,6 +15,9 @@ public class ClassMethod04 {
         // Human04.instanceMethodPrint();
         // System.out.println(Human04.name);
 
+        
+        
+        
         // インスタンスメンバーはインスタンス生成してから使用する
         yamada.instanceMethodPrint();
         
