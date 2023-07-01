@@ -17,5 +17,8 @@ public class ClassMethod04 {
 
         // インスタンスメンバーはインスタンス生成してから使用する
         yamada.instanceMethodPrint();
+        
+        
+        
     }
 }
