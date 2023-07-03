@@ -2,6 +2,10 @@ package classMethod.human;
 
 public class ClassMethod04 {
     public static void main(String[] args) {
+    	
+    	
+    	
+    	
         // Human04インスタンスを生成すると、コンストラクタ内の処理が実行される
         Human04 yamada = new Human04("山田");
 
