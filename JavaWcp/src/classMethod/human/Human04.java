@@ -12,6 +12,9 @@ public class Human04 {
     // 定数
     public static final String GREETING = "こんにちは";
 
+    
+    
+    
     public Human04(String name) {
         this.name = name;
         // インスタンス生成ごとにstatic変数をインクリメント
