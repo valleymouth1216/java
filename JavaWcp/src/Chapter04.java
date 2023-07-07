@@ -1,6 +1,8 @@
 
 public class Chapter04 {
  public static void main (String[] args) {
+	 
+	 
 	 String str1;
 	 str1 = "ポケモン";
 	 System.out.println(str1);
