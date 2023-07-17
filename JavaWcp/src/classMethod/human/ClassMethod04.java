@@ -3,9 +3,7 @@ package classMethod.human;
 public class ClassMethod04 {
     public static void main(String[] args) {
     	
-    	
-    	
-    	
+
         // Human04インスタンスを生成すると、コンストラクタ内の処理が実行される
         Human04 yamada = new Human04("山田");
 
@@ -19,13 +17,10 @@ public class ClassMethod04 {
         // Human04.instanceMethodPrint();
         // System.out.println(Human04.name);
 
-        
-        
-        
+
         // インスタンスメンバーはインスタンス生成してから使用する
         yamada.instanceMethodPrint();
         
-        
-        
+
     }
 }
